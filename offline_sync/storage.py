@@ -1,5 +1,7 @@
 """SQLite setup and transaction helpers for the sync demonstration."""
 
+from __future__ import annotations
+
 from contextlib import contextmanager
 from pathlib import Path
 import sqlite3

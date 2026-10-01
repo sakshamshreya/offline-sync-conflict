@@ -16,7 +16,7 @@ This project is built around one clear rule: two edits to different top-level fi
 
 ## Requirements
 
-- Python 3.10 or newer
+- Python 3.7 or newer
 - No third-party Python packages
 
 ## Run locally

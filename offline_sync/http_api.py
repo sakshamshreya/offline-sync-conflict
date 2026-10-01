@@ -1,5 +1,7 @@
 """Small JSON HTTP API built with Python's standard library."""
 
+from __future__ import annotations
+
 from functools import partial
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import json

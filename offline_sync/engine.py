@@ -1,5 +1,7 @@
 """Versioned document sync and field-level conflict handling."""
 
+from __future__ import annotations
+
 from datetime import datetime, timezone
 import hashlib
 import json
